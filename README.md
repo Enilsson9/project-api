@@ -7,6 +7,7 @@ cd db
 sqlite3 users.sqlite
 sqlite> .read ddl.sql
 sqlite> .exit
+cd ..
 ```
 
 ## environment variable
